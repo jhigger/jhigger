@@ -42,14 +42,26 @@
 
 ---
 
-## 📌 Featured Projects
+## ⭐ Flagship Portfolio
 
-| Project | Description | Stack | Link |
+> Central developer showcase highlighting background, featured applications, and design experiments.
+
+| Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[my-portfolio](https://github.com/jhigger/my-portfolio)** | Personal developer portfolio highlighting applications, design, and background. | TypeScript, React, Tailwind | [Repo](https://github.com/jhigger/my-portfolio) · [Live](https://jhigger.vercel.app/) |
-| **[schoolsync](https://github.com/jhigger/schoolsync)** | School management and student coordination platform designed for workflow efficiency. | TypeScript, Next.js | [Repo](https://github.com/jhigger/schoolsync) |
-| **[avisala-restaurant](https://github.com/jhigger/avisala-restaurant)** | Modern restaurant ordering and menu browsing web application. | TypeScript, Web Technologies | [Repo](https://github.com/jhigger/avisala-restaurant) |
-| **[world-gen](https://github.com/jhigger/world-gen)** | Interactive procedural world generation and simulation engine. | TypeScript | [Repo](https://github.com/jhigger/world-gen) |
+| **[my-portfolio](https://github.com/jhigger/my-portfolio)** | Personal developer portfolio and showcase platform. | TypeScript, React, Tailwind CSS | [Repository](https://github.com/jhigger/my-portfolio) · [Live Preview](https://jhigger.vercel.app/) |
+
+---
+
+## 📌 Pinned Repositories
+
+| Repository | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[niuvaka-trust](https://github.com/jhigger/niuvaka-trust)** | Community trust web platform and portal. | TypeScript | [Repository](https://github.com/jhigger/niuvaka-trust) · [Live Site](https://niuvaka.org.nz/) |
+| **[duckett-archi](https://github.com/jhigger/duckett-archi)** | Architectural firm showcase website and portfolio. | TypeScript | [Repository](https://github.com/jhigger/duckett-archi) · [Live Site](https://www.duckettarchitecture.co.nz/) |
+| **[qtopia](https://github.com/jhigger/qtopia)** | Modern web platform and application. | TypeScript | [Repository](https://github.com/jhigger/qtopia) · [Live Site](https://www.qtopia.io/) |
+| **[pizzastack2](https://github.com/jhigger/pizzastack2)** | Pizza ordering and menu browsing web application. | JavaScript | [Repository](https://github.com/jhigger/pizzastack2) · [Live Site](https://jhigger-pizzastack.netlify.app/) |
+| **[MasterOfGingerbread](https://github.com/jhigger/MasterOfGingerbread)** | Interactive web showcase and creative build. | HTML, CSS, JavaScript | [Repository](https://github.com/jhigger/MasterOfGingerbread) · [Live Site](https://masterofgingerbread.netlify.app/) |
+| **[Materialize](https://github.com/jhigger/Materialize)** | Responsive web showcase crafted with Materialize CSS. | HTML, Materialize CSS | [Repository](https://github.com/jhigger/Materialize) · [Live Site](https://jhigger-materialize.netlify.app/) |
 
 ---
 

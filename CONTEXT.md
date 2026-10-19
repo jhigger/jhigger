@@ -8,9 +8,13 @@ The special repository rendered on John Jhigger Nepomuceno's GitHub profile page
 The root Markdown document displayed publicly on the user's GitHub profile overview page.
 _Avoid_: User landing page, homepage markdown
 
-**Featured Project**:
-A curated open-source repository highlighted on the profile showcasing core engineering capabilities.
-_Avoid_: Pinned work, portfolio item
+**Flagship Portfolio**:
+The central personal portfolio web application showcasing John's developer identity, projects, and live demos.
+_Avoid_: Personal site, homepage
+
+**Pinned Repositories**:
+The curated set of repositories pinned on John's GitHub profile showcasing production applications and client/community web projects.
+_Avoid_: Featured projects, casual repos
 
 **Tech Badge**:
 A standardized visual badge representing a programming language, framework, database, or tool in the developer's stack.
